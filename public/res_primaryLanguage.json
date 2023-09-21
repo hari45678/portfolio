@@ -1,0 +1,134 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Hariom Gupta. I am an experienced frontend developer with a proven track record of creating visually appealing and user-friendly interfaces. My expertise in HTML, CSS, and JavaScript, combined with my ability to collaborate effectively with design and backend teams, enables me to deliver seamless and engaging user experiences. I am dedicated to staying up-to-date with the latest industry trends and technologies, making me a valuable asset in driving innovation and delivering high-quality frontend solutions. Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Responsive Dynamic Website",
+        "startDate": "2023",
+        "description": "Fully responsive and dynamic website using HTML5, Bootstrap (B5), Node.js, Express.js, MongoDB, and Mongoose. This website seamlessly combines front-end and back-end technologies to deliver a rich user experience. HTML5 and Bootstrap ensure an appealing, responsive design. Node.js with Express.js powers the server, handling routing and API requests. MongoDB, coupled with Mongoose, manages database operations efficiently. Users can interact with dynamic content, register, log in, and experience real-time updates. The website is scalable and robust, offering a modern web experience while utilizing a NoSQL database for data storage and retrieval.",
+        "images": [
+          "images/portfolio/animal-shelter/p5.png",
+          "images/portfolio/animal-shelter/p6.webp"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.Js"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-mongoose-plain",
+            "name": "Mongoose"
+          }
+        ]
+      },
+      {
+        "title": "Food Delivery Website",
+        "startDate": "2023",
+        "description": "A responsive food delivery website using HTML, CSS, and JavaScript. The website will feature an attractive homepage, search and filter options, restaurant listings, and detailed menus. Users can register, log in, and enjoy a smooth shopping experience with a secure checkout and order tracking. Ratings and reviews, social media integration, and SEO optimization enhance user engagement. Admin tools ensure efficient management. Prioritize security, performance, and mobile responsiveness.",
+        "images": [
+          "images/portfolio/photography/p3.jpg",
+          "images/portfolio/photography/p4.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascipt-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Netflix Clone",
+        "startDate": "2022",
+        "description": "Developed a fully functional Netflix Clone web application using Javascipt, ReactJs, NodeJs, MongoDB showcasing proficiency in front-end and back-end development, video streaming integration, and user authentication.!",
+        "images": [
+          "images/portfolio/adventure/p1.png",
+          "images/portfolio/adventure/p2.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascipt-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "The Sparks Foundation",
+        "title": "Web Developer & Designer",
+        "years": "09.2023 - present",
+        "mainTech": [
+          "React 8/9/10"
+        ],
+        "technologies": [
+          "REST API",
+          "HTML5",
+          "JavaScript",
+          "Bootstrap",
+          "TypeScript",
+          "MYSQL",
+          "React",
+          "Node.Js",
+          "Express.Js"
+        ]
+      },
+      {
+        "company": "InternPe",
+        "title": "Web Developer Intern",
+        "years": "07.2023 - 08.2023",
+        "mainTech": [
+          "Javascipt 7/8"
+        ],
+        "technologies": [
+          "CSS",
+          "MYSQL",
+          "HTML",
+          "JavaScript",
+          "Bootstrap"
+        ]
+      }
+    ]
+  }
